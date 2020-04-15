@@ -30,10 +30,10 @@ header{
 .menu ul li a:hover{color: #e5dcdc;}
 
 /* CONTAINER-BACKGROUND */
-.container-background{ display: flex; justify-content: center; align-items: center; background-image: url('../imgs/background.jpg'); height: 520px; width: 100%; background-size: cover; background-color: rgba(0,0,0,.75); background-blend-mode: multiply;}
+.container-background{ display: flex; justify-content: center; align-items: center; background-image: url('../imgs/background.jpg'); height: 520px; width: 100%; background-size: cover;}
 .container-background div{width: 80%; text-align: center;}
-.container-background div h1{color: #FFF; font-size: 8em; font-family: 'Teko', 'Roboto', sans-serif;}
-.container-background div p{color: #FFF; font-size: 2em; font-family: 'Teko', 'Roboto', sans-serif;}
+.container-background div h1{color: #000; font-size: 8em; font-family: 'Teko', 'Roboto', sans-serif;}
+.container-background div p{color: #000; font-size: 2em; font-family: 'Teko', 'Roboto', sans-serif;}
 .container-background div a{transition: all .5s ease; color: #FFF; background: #53019b;padding: 15px 40px; border: 0.5px groove #FFF; border-radius: 20px} 
 .container-background div a:hover{ left:0;top:0; background-color: #770ad6}
 
